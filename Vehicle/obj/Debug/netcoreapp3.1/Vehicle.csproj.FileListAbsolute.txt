@@ -1,0 +1,14 @@
+C:\Users\Seymur\Desktop\C_SHARP projects\Vehicle_Car\Vehicle\Vehicle\bin\Debug\netcoreapp3.1\Vehicle.exe
+C:\Users\Seymur\Desktop\C_SHARP projects\Vehicle_Car\Vehicle\Vehicle\bin\Debug\netcoreapp3.1\Vehicle.deps.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Vehicle_Car\Vehicle\Vehicle\bin\Debug\netcoreapp3.1\Vehicle.runtimeconfig.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Vehicle_Car\Vehicle\Vehicle\bin\Debug\netcoreapp3.1\Vehicle.runtimeconfig.dev.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Vehicle_Car\Vehicle\Vehicle\bin\Debug\netcoreapp3.1\Vehicle.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Vehicle_Car\Vehicle\Vehicle\bin\Debug\netcoreapp3.1\Vehicle.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Vehicle_Car\Vehicle\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.csproj.AssemblyReference.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Vehicle_Car\Vehicle\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymur\Desktop\C_SHARP projects\Vehicle_Car\Vehicle\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.AssemblyInfoInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Vehicle_Car\Vehicle\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.AssemblyInfo.cs
+C:\Users\Seymur\Desktop\C_SHARP projects\Vehicle_Car\Vehicle\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Vehicle_Car\Vehicle\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Vehicle_Car\Vehicle\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Vehicle_Car\Vehicle\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.genruntimeconfig.cache
